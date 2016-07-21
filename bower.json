@@ -1,8 +1,7 @@
 {
-  "name": "font-awesome",
-  "description": "Font Awesome",
+  "name": "mfglabs-iconset",
+  "description": "My fork of mfglabs-iconset",
   "main": [
-    "less/font-awesome.less",
-    "scss/font-awesome.scss"
+    "css/mfglabs_iconset.css"
   ]
 }

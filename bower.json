@@ -1,0 +1,8 @@
+{
+  "name": "font-awesome",
+  "description": "Font Awesome",
+  "main": [
+    "less/font-awesome.less",
+    "scss/font-awesome.scss"
+  ]
+}

@@ -2,6 +2,7 @@
   "name": "mfglabs-iconset",
   "description": "My fork of mfglabs-iconset",
   "main": [
-    "css/mfglabs_iconset.css"
+    "css/mfglabs_iconset.css",
+    "css/main.css"
   ]
 }
